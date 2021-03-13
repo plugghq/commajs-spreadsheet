@@ -1,6 +1,6 @@
 {
   "name": "commajs-spreadsheet",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "Commajs - The WYSIWYG framework -  spreadsheet plugin",
   "main": "dist/commajs-spreadsheet.min.js",
   "repository": {
